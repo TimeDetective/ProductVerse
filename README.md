@@ -8,7 +8,7 @@
 
 ## 在线体验
 
-网站将通过 GitHub Pages 发布，部署完成后访问：https://timedetective.github.io/ProductVerse/
+**[打开 ProductVerse →](https://timedetective.github.io/ProductVerse/)**
 
 ## 可以体验什么？
 
